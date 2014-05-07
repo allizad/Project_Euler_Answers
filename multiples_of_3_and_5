@@ -1,0 +1,6 @@
+numbers = Array(1...1000)
+numbers.delete_if do |i|
+	i%5!=0 || i%3!=0
+end
+sum = numbers.reduce(:+)
+puts sum
