@@ -10,4 +10,4 @@ end
 
 puts fib_evens.inject(:+)
 
-#this was super slow in my terminal
+#much faster using a hash to populate fibonacci's than a method, which has to recalculate every fibonacci function.
