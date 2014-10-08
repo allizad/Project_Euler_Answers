@@ -10,6 +10,8 @@ My process was:
 1. Solve the problem naively, breaking each step down.
 2. Search out methods for help
 3. Refactor the code
-4. Check my answers against others' to look for clearner and faster ways of solving the problems.
+4. Check my answers against others' to look for cleaner and faster ways of solving the problems.
 
 I started these before I started at Makersquare. My comments in the file were more for my benefit to structure out the logic.
+
+[I also did many of these in Javascript here](https://www.github.com/allizad/Project-Euler-Javascript)
